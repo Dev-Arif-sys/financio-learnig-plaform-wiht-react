@@ -1,0 +1,17 @@
+
+.nav{
+    background-color: #110235;
+}
+.logo-portion{
+    color: rgb(19, 228, 11);
+}
+.menuLink{
+    border-bottom: 1px solid #110235;
+    color: white ;
+    margin-right: 1em;
+}
+
+.menuLink:hover{
+    border-bottom: 1px solid #bec4cf;
+    color: white ;
+}

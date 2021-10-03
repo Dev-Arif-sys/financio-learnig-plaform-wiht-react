@@ -1,0 +1,55 @@
+.hero{
+    display: block;
+    margin-top: 60px;
+box-sizing: border-box;
+height: 110vh;
+background-color: #dc3d4b;
+clip-path: ellipse(123% 100% at 68.25% 0%);
+}
+.hero-header{
+    color: white;
+    font-size: 3rem;
+    font-weight: bold;
+}
+.hero-subHeader{
+    color: #FFE4E1;
+    margin: 1em 0;
+}
+/* button design */
+.forwardBtn{
+    display: inline-block;
+    text-transform: uppercase;
+    text-decoration: none;
+    padding: .8em 1.5em;
+    overflow: hidden;
+    background-color:#110235;
+    color: rgb(19, 228, 11);
+    position: relative;
+    border: none;
+    border-radius: 10px;
+    
+    }
+    .forwardBtn::before{
+         content: "→";
+         position: absolute;
+         left: -12%;
+         transition:   all .3s ;
+         font-weight: bold;
+    }
+    .forwardBtn>span{
+        display: inline-block;
+        transition: all .3s;
+    }
+    .forwardBtn:hover>span{
+        
+       
+        transform:translateX(300%);
+    }
+    .forwardBtn:hover::before{
+        left: 40%;
+    }
+    
+
+    .hero-img img{
+        width: 750px;
+    }

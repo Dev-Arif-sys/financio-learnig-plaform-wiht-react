@@ -1,0 +1,92 @@
+[
+    {
+      "id": 1,
+      "title": "Foundations of Finance",
+      "Image": "https://cdn.corporatefinanceinstitute.com/assets/finance-definition.jpg",
+      "price": 150,
+      "rating": 4.3,
+      "Language": "English",
+      "description": "This course provides a rigorous, but straightforward, introduction to the key concepts of financial understanding. Using real-world case studies and practitioner interviews, as well as timely knowledge checks, you will integrate your new knowledge and problem solving skills with practical application"
+    },
+    {
+      "id": 2,
+      "title": "Financial Market Analysis",
+      "Image": "https://cloudinary.hbs.edu/hbsit/image/upload/s--wx5D2ABw--/f_auto,c_fill,h_375,w_750,/v20200101/5393409F6FB391494111C5EC16653C89.jpg",
+      "price": 210,
+      "rating": 3.5,
+      "Language": "English",
+      "description": "In this IMFx course you will learn, from hands-on demonstrations, how to price different types of bonds, how to calculate different measures of bond yields and how to compare them across different types of instruments. You will become familiar with the term structure of interest rates, a key ingredient in establishing benchmark rates used to price securities in the markets and a valuable tool for monetary policy design and diagnosis."
+    },
+    {
+      "id": 3,
+      "title": "Finance Essentials",
+      "Image": "https://www.frevvo.com/blog/wp-content/uploads/2020/01/Frevvo-Improve-Finance-hero-1000x528.png",
+      "price": 99,
+      "rating": 4.5,
+      "Language": "English",
+      "description": "Want to study for an MBA but are unsure of basic financial concepts? This business and management course prepares you for studying finance in an MBA program and in business generally."
+    },
+    {
+      "id": 4,
+      "title": "Foundations of Modern Finance",
+      "Image": "https://www.port.ac.uk/-/media/images/heros---1200x400-large---640x400-small/courses/courses/pgt-courses/msc-international-finance-and-banking-800x400.jpg",
+      "price": 70,
+      "rating": 3.9,
+      "Language": "English",
+      "description": "This is a two-part course, and part of the MicroMasters® Program in Finance. It provides a rigorous and comprehensive introduction to the fundamentals of modern finance and their applications to business challenges in valuation, investments, and corporate financial decisions under a unified framework."
+    },
+    {
+      "id": 5,
+      "title": "Financial Accounting",
+      "Image": "https://www.wbcsd.org/var/site/storage/images/media/images/finance_img/25992-1-eng-GB/finance_img_i1140.jpg",
+      "price": 110,
+      "rating": 4.3,
+      "Language": "English",
+      "description": "How do investors, creditors, and other users analyze financial statements to assess corporate performance? Learn financial accounting, how to read financial statements, and how to gather inputs to valuation models."
+    },
+    {
+      "id": 6,
+      "title": "Quantitative Finance",
+      "Image": "https://www.port.ac.uk/-/media/images/heros---1200x400-large---640x400-small/courses/courses/pgt-courses/msc-international-finance-and-banking-800x400.jpg",
+      "price": 49,
+      "rating": 4.1,
+      "Language": "English",
+      "description": "Modern finance is the science of decision making in an uncertain world, and its language is mathematics. As part of the MicroMasters® Program in Finance, this course develops the tools needed to describe financial markets, make predictions in the face of uncertainty, and find optimal solutions to business and investment decisions."
+    },
+    {
+      "id": 7,
+      "title": "Derivatives Markets",
+      "Image": "https://i.ytimg.com/vi/7l4itaxPT3E/maxresdefault.jpg",
+      "price": 80,
+      "rating": 4.4,
+      "Language": "English",
+      "description": "Financial derivatives are ubiquitous in global capital markets. Students will obtain a sophisticated understanding of valuation methods; tools for quantifying, hedging, and speculating on risk; and a basic familiarity with major markets and instruments."
+    },
+    {
+      "id": 8,
+      "title": "Introduction to Corporate Finance",
+      "Image": "https://mk0financedigesaop11.kinstacdn.com/wp-content/uploads/2020/09/Untitled-design-52.jpg",
+      "price": 149,
+      "rating": 4.7,
+      "Language": "English",
+      "description": "In this course, you will gain an understanding of time-honored financial concepts and rules, and how these can be applied to value firms, bonds, and stocks."
+    },
+    {
+      "id": 9,
+      "title": "Free Cash Flow Analysis",
+      "Image": "https://cdn.educba.com/academy/wp-content/uploads/2021/03/Cash-Flow-Analysis.jpg",
+      "price": 179,
+      "rating": 4.9,
+      "Language": "English",
+      "description": "In this course, learners will begin to apply the lessons and concepts from Introduction to Corporate Finance as they begin to discuss basics of firm valuation."
+    },
+    {
+      "id": 10,
+      "title": "Risk & Return",
+      "Image": "https://image.slidesharecdn.com/riskreturnbasicsforinvesting-160211100319/95/risk-return-basics-for-investing-1-638.jpg?cb=1455185162",
+      "price": 199,
+      "rating": 4,
+      "Language": "English",
+      "description": "In this course, you will learn to estimate the expected return of equity and debt. You will also learn to estimate the weighted average cost of capital (WACC), the opportunity cost of capital you should use when discounting the free cash flows to value a firm."
+    }
+  ]
