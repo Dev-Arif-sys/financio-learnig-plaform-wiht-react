@@ -21,8 +21,9 @@ const Footer = () => {
                    </div>
                    {/* our presence */}
                    <div className="text-white presence text-left col-md-3">
-                   <h5>Our Presence</h5>
+ 
                        <ul>
+                       <h5>Our Presence</h5>
                            <li>
                                <a href="">Affiliate</a>
             
@@ -46,8 +47,9 @@ const Footer = () => {
             
                 {/* our presence */}
                 <div className="text-white presence text-left col-md-3">
-                <h5>Resources</h5>
+                
                 <ul>
+                <h5>Resources</h5>
                            <li>
                                <a href="">Resourse</a>
             
@@ -69,8 +71,9 @@ const Footer = () => {
             
                {/* our presence */}
                 <div className="text-white presence text-left col-md-3">
-                <h5>Quick Links</h5>
+               
                 <ul>
+                <h5>Quick Links</h5>
                            <li>
                                <a href="">Home</a>
             
