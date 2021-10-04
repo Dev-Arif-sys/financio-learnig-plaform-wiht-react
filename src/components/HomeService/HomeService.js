@@ -10,7 +10,7 @@ const HomeService = () => {
     return (
         <div className="w-75 mx-auto my-5 ">
             <h2 className="text-secondary fw-bold text-center mb-4">Our Courses</h2>
-            <Row xs={1} md={3}  className="g-4 justify-content-center ">
+            <Row xs={1} md={3}  className="g-4 justify-content-center ms-5 ">
             {
                 courses.map(course=> <Course 
                     course={course}

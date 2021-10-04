@@ -1,10 +1,12 @@
 import React from 'react';
 import './NotFound.css'
+import img from '../images/404 not found.svg'
 
 const NotFound = () => {
     return (
         <div className="notFound">
-            <h1 className="fs-5 text-danger text-center"> 404 page is not found</h1>
+            <div className="text-center"><img src={img} alt="" /></div>
+            <h1 className="my-4 text-warning text-center"> 404 page is not found</h1>
         </div>
     );
 };

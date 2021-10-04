@@ -1,7 +1,7 @@
 import { useEffect, useState } from "react"
 
 const UseCourse=()=>{
-    const [course,setCourse]=useState([])
+    const [courses,setCourse]=useState([])
 
     useEffect(()=>{
         fetch('./Courses.json')
@@ -9,7 +9,7 @@ const UseCourse=()=>{
         .then(data=>setCourse(data))
     },[])
 
-    return [course]
+    return [courses]
 }
 
 export default UseCourse;

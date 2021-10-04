@@ -5,12 +5,14 @@ import UseCourse from '../UseCourse';
 import './Service.css'
 
 const Services = () => {
+
     const [courses]=UseCourse([])
+
     return (
         <div className="service">
-        <div className="row container mx-auto my-4">
+        <div className="row container mx-auto my-4 ">
              <h2 className="text-secondary fw-bold text-center mb-4">Our Courses</h2>
-           <Row xs={1} md={3} className="g-4">
+           <Row xs={1} md={3} className="g-4 ms-5">
                {
                 courses.map(course=><Course 
                    

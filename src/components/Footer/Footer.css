@@ -1,9 +1,16 @@
+.footer-container{
+    position: relative;
+}
 .footer{
     background-color: #110235;
    
     padding: 30px;
     padding-top: 50px;
     clip-path: ellipse(96% 100% at 25.62% 100%);
+    position: absolute;
+    width: 100%;
+    z-index: 3;
+
    
 
   
@@ -13,5 +20,8 @@
 }
 .presence a{
     text-decoration: none;
-    color: white;
+    color: lightgray;
+}
+.presence a:hover{
+    color:#dc3d4b ;
 }

@@ -9,7 +9,7 @@ const Hero = () => {
             <div className="col-md-6">
              <h1 className="hero-header">Your Personal Study of Finance Starts here</h1>
              <h5 className="hero-subHeader">Register now for 30% off</h5>
-             <button  class="forwardBtn"><span>Register</span></button>
+             <button  className="forwardBtn"><span>Register</span></button>
             </div>
             <div  className="col-md-5 hero-img ">
             <img  src={Img} alt="" />
