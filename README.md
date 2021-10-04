@@ -1,4 +1,4 @@
-# Finaciio-the best finance platform
+# Financiio-the best finance platform
 
 to vist the site [click here](https://financiio.netlify.app/).
 
